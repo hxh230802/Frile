@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Friles.ico</file>
+        <file>resources/images/dir.svg</file>
+        <file>resources/images/Biology.svg</file>
+        <file>resources/images/Chemistry.svg</file>
+        <file>resources/images/Chinese.svg</file>
+        <file>resources/images/Class Public.svg</file>
+        <file>resources/images/English.svg</file>
+        <file>resources/images/Geography.svg</file>
+        <file>resources/images/Grade Public.svg</file>
+        <file>resources/images/History.svg</file>
+        <file>resources/images/Math.svg</file>
+        <file>resources/images/Physics.svg</file>
+        <file>resources/images/Politics.svg</file>
+        <file>resources/images/quit.svg</file>
+        <file>resources/images/restart.svg</file>
+        <file>resources/images/goBack.svg</file>
+        <file>resources/images/home.svg</file>
+        <file>resources/images/settings.svg</file>
+        <file>resources/images/refresh.svg</file>
+        <file>resources/images/quit1.svg</file>
+        <file>resources/images/restart1.svg</file>
+        <file>resources/images/information.svg</file>
+        <file>resources/images/help.svg</file>
+        <file>resources/images/question.svg</file>
+    </qresource>
+</RCC>
